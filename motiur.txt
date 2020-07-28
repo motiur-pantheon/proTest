@@ -13,4 +13,3 @@ this is for branch motiur
 # cheripic test 1
 
 #mahin test 1
-#mahin test 2
